@@ -1,3 +1,3 @@
 Calculator-for-commitpowerR
 
-sddsdşlsadşal
+Deneme1
