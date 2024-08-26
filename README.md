@@ -1,1 +1,1 @@
-Commit Power Development Repository: abcd
+Commit Power Development Repository: Deneme
