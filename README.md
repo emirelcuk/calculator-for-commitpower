@@ -1,1 +1,1 @@
-Commit Power Development Repository: Deneme1
+Commit Power Development Repository: Deneme2
