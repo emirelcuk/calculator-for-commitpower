@@ -1,4 +1,4 @@
- GITHUB CREATING APP
+GITHUB CREATING APP
 Go to the link: https://github.com/settings/apps , click "New Github App". Foto1
 Fill in the required sections:
 1.GitHub App name
@@ -16,3 +16,5 @@ Grant the following permissions from the "Permission section":
 Click on the following events from the "Subscribe the event section":
 1.Check run
 2.Status
+After creating app, you will see the "APP ID". (Save this information for later).
+Then, click the "Generate a private key". You need a private key to sign access token requests. (Save this information for later).
