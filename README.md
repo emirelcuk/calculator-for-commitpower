@@ -16,4 +16,3 @@ Grant the following permissions from the "Permission section":
 Click on the following events from the "Subscribe the event section":
 1.Check run
 2.Status
--------------------------------------------------------------------------------------------
