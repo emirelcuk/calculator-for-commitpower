@@ -1,4 +1,4 @@
-------------------------------------- GITHUB CREATING APP --------------------------------------
+ GITHUB CREATING APP
 Go to the link: https://github.com/settings/apps , click "New Github App". Foto1
 Fill in the required sections:
 1.GitHub App name
