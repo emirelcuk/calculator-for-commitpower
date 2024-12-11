@@ -2,6 +2,7 @@ def toplama(a, b):
     return a + b
 
 def cikarma(a, b):
+    print(a-b)
     return a - b
 
 def carpma(a, b):
